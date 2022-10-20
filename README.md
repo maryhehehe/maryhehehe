@@ -1,9 +1,9 @@
 <p align="center">
-
+    <samp>
 👋 Hi I'm Mary!
-
-I work at GitHub's [Growth Design team](https://github.com/github/brand-marketing-design/) ❤️
-
+  <br> 
+I work at GitHub's <a href="[https://github.com/github/brand-marketing-design/]">Growth Design team ❤️ </a>.
+  </samp>
 
 ## Fun facts about me 
 - 🥊 Martial arts and [Aerial silks](https://www.instagram.com/p/CiGvr-Lpzog/) keep me happy and they make me feel like a kid again. 
