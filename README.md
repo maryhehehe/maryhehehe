@@ -2,7 +2,7 @@
     <samp>
 👋 Hi I'm Mary!
   <br> 
-I work at GitHub's <a href="[https://github.com/github/brand-marketing-design/]">Growth Design team ❤️ </a>.
+I work at GitHub's <a href="https://github.com/github/brand-marketing-design/">Growth Design team ❤️</a>.
   </samp>
 
 ## Fun facts about me 
