@@ -12,4 +12,8 @@ I work at GitHub's <a href="https://github.com/github/brand-marketing-design/">G
 - 📚 Actively [coaching](https://medium.com/@Maryhehehe/the-impact-of-coaching-cafa3104d40c) and mentoring designers makes me happy because I can make an impact by helping someone grow. 
 - 👾 Video games are nostalgic, they remind me of the fun parts of childhood, and playing games keeps me curious and happy. 
 - 🌎 I'm a big dreamer. Every day I hope to live the life of my dreams, and I hope to dream big enough that life feels meaningful. 
+
+## What I'm learning these days
+- 🚙 Believe it or not, I can't drive. It's okay, soon we will have spaceships, so I wouldn't need to drive. For now though, I gotta learn.
+
 </p>
