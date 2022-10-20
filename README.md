@@ -9,4 +9,4 @@ I work at GitHub's [Growth Design team](https://github.com/github/brand-marketin
 - 🥝 Healthy eating is important to me, because I believe that my health is my wealth. 
 - 📚 Actively [coaching](https://medium.com/@Maryhehehe/the-impact-of-coaching-cafa3104d40c) and mentoring designers makes me happy because I can make an impact on someone by helping them grow. 
 - 👾 Video games are nostalgic for me, they remind me of the fun times from childhood, and playing them keeps me curious and happy. 
-- 🌎 I'm a big dreamer and I live between worlds where I hope to live the life of my dreams, and I hope to dream big enough that life feels meaningful to me. 
+- 🌎 I'm a big dreamer. Every day I hope to live the life of my dreams, and I hope to dream big enough that life feels meaningful to me. 
