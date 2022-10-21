@@ -14,7 +14,7 @@ I work at GitHub's <a href="https://github.com/github/brand-marketing-design/">G
 - 🌎 I'm a big dreamer. Every day I hope to live the life of my dreams, and I hope to dream big enough that life feels meaningful. 
 
 ## What I'm learning these days
-- 🚙 Believe it or not, I can't drive. It's okay, soon we will have spaceships, so I wouldn't need to drive. For now though, I'm learning how to drive.
+- 🚙 Believe it or not, I can't drive. It's okay, soon we will have spaceships, so I wouldn't need to drive. For now though, I'm need to. 
 - 🍄 As a nature lover, I want to have a better understanding of the Earth and I'm starting to learn more about mushrooms.
 - 👩🏻‍💻 I've also been fascinated by code for a long time, and I'm learning HTML, CSS, Javascript and a little bit of Kotlin
 
